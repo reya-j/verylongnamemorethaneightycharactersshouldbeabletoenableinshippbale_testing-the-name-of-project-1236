@@ -8,4 +8,4 @@ python:
 build:
   ci:
     - python --version
-    
+    - sleep 4m
