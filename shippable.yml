@@ -8,7 +8,7 @@ python:
 build:
   ci:
     - python --version
-    - sleep 15m
+  #  - sleep 15m
 
 
 
